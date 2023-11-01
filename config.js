@@ -22,7 +22,7 @@ global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' ; //wa.me/+26371
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || "VAJIRA;;;AlliesKendall",      //Put Your Session Id Here
-  botname: process.env.BOT_NAME || 'Hacker,
+  botname: process.env.BOT_NAME || 'ᴠᴀᴊɪʀᴀ-ᴍᴅ,
   botbgm: process.env.BOT_BGM || 'false',
   ownername:  process.env.OWNER_NAME || `It'x vajira`,
   author:  process.env.PACK_AUTHER || '',
